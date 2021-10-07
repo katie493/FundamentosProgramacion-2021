@@ -1,4 +1,4 @@
-public class Ejercicio1 {
+public class Ejercicio1KA {
   
   public static void main (string[] args) {
     
