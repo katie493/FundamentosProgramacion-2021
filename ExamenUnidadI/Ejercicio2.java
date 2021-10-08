@@ -1,5 +1,7 @@
 public class Ejercicio1 {
+
   public static void main (string[] args) {
+    
     import java.util.Scanner;
     class Poner a lo que es tu java de examne{ 
       static Scanner sc = new Scanner(System.in);
@@ -9,6 +11,7 @@ public class Ejercicio1 {
       System.out.print("Ingresa el valor de puntos: ");
       puntos = sc.nextDouble();
      sc.nextLine();
+     
      System.out.print("Ingresa el valor de salario minimo: ");
       S_minimo = sc.nextDouble();
       sc.nextLine();
