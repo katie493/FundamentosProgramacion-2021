@@ -127,9 +127,6 @@ public class Ejercicio6 {
               
               case 5:problema13();;break;
 
-              case 6:;break;
-              
-              case 7:;break;
               default: System.out.println("La opcion ingresada no existe!");
             }   
           System.out.println("##############################################");         
